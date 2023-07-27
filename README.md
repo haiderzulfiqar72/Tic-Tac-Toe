@@ -1,2 +1,2 @@
-# Tie-Tac-Toe
+# Tic-Tac-Toe
 Tie-Tac-Toe is an exciting GitHub project that explores the fascinating world of artificial intelligence in the context of the classic Tic Tac Toe game. The repository showcases an AI player meticulously crafted using the powerful minimax algorithm, which enables it to think several moves ahead and make optimal decisions. By harnessing the full potential of Python's capabilities, this AI opponent guarantees a challenging and thrilling gaming experience for anyone seeking a worthy adversary. Whether you are a seasoned Tic Tac Toe enthusiast or just looking for a stimulating game, Tie-Tac-Toe will keep you on your toes with its strategic brilliance. 
